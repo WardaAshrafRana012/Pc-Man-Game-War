@@ -1,0 +1,6 @@
+1. Extract this zip.
+2. Open 'Pc Man Game War.sln' in Visual Studio 2022.
+3. Build the solution.
+4. Press F5 to run.
+
+This version keeps the same code/gameplay, but uses a slightly different UI theme and refreshed resource images.
