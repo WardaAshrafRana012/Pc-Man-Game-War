@@ -1,0 +1,30 @@
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.exe.config
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.exe
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.pdb
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.AssemblyReference.cache
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc_Man_Game_War.Form1.resources
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc_Man_Game_War.Properties.Resources.resources
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.GenerateResource.cache
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.CoreCompileInputs.cache
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.exe
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.pdb
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.exe.config
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.exe
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.pdb
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.AssemblyReference.cache
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc_Man_Game_War.Form1.resources
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc_Man_Game_War.Properties.Resources.resources
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.GenerateResource.cache
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.CoreCompileInputs.cache
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.exe
+C:\Users\WARDA\Downloads\pgame_wall_gameover\pgame\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.pdb
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.exe.config
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.exe
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\bin\Debug\Pc Man Game War.pdb
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.AssemblyReference.cache
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc_Man_Game_War.Form1.resources
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc_Man_Game_War.Properties.Resources.resources
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.GenerateResource.cache
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.csproj.CoreCompileInputs.cache
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.exe
+C:\Users\WARDA\source\repos\PacmanGame\PacMan_war\Pc Man Game War\PacMan_war\Pc Man Game War\obj\Debug\Pc Man Game War.pdb
